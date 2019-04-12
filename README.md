@@ -1,4 +1,4 @@
-#simple-lfu-cache-demo
+# simple-lfu-cache-demo
 a demo about [lfu(Least Frequently Used)](http://dhruvbird.com/lfu.pdf) cache implement in Golang
 
 ## example
